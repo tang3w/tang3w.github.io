@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tang3w.github.io/sitemap.xml
