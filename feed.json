@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "tang3w.github.io",
+    "title": "ttang",
     "description": "",
-    "home_page_url": "https://tang3w.github.io",
-    "feed_url": "https://tang3w.github.io/feed.json",
+    "home_page_url": "https://ttang.io",
+    "feed_url": "https://ttang.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Tianyong Tang"
